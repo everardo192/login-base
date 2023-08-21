@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaz_Usuario_Sql_Server_1", "Interfaz_Usuario_Sql_Server_1\Interfaz_Usuario_Sql_Server_1.csproj", "{CBA7717A-14EB-486F-B806-2FBFB5DA2898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA7717A-14EB-486F-B806-2FBFB5DA2898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA7717A-14EB-486F-B806-2FBFB5DA2898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA7717A-14EB-486F-B806-2FBFB5DA2898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA7717A-14EB-486F-B806-2FBFB5DA2898}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08A82E55-EFC4-4F67-B417-A3C2A9617145}
+	EndGlobalSection
+EndGlobal
